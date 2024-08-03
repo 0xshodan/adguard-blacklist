@@ -23,3 +23,7 @@
 ||newmanga.org^
 ||ahen.me^
 ||mangalib.me^
+||tgstat.ru^
+||tgstat.com^
+||tlgrm.ru^
+||tlgrm.eu^

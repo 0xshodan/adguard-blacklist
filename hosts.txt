@@ -13,3 +13,4 @@
 ||cdn-d-vid-mobile.pornhub.com^
 ||cdn-d-vid-public.pornhub.com^
 ||xvideos.com^
+||phncdn.com^

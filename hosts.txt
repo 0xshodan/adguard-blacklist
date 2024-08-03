@@ -1,7 +1,5 @@
 ||googlevideo.com^
-||pornhub.com
-||www.pornhub.com
-||pl.pornhub.com
+||pornhub.com^
 ||ams.upload.pornhub.com^
 ||api.pornhub.com^
 ||cdn-d-img.pornhub.com^

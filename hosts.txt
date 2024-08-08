@@ -27,3 +27,6 @@
 ||tgstat.com^
 ||tlgrm.ru^
 ||tlgrm.eu^
+||telegram.botlist.ru^
+||telemetr.io^
+||telegram.im^

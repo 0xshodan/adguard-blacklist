@@ -30,3 +30,6 @@
 ||telegram.botlist.ru^
 ||telemetr.io^
 ||telegram.im^
+||missingtoofff.com^
+||tdirectory.me^
+||tgramsearch.com^
